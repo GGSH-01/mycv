@@ -1,0 +1,52 @@
+* {
+    background-color: #F7F7F7;
+    font-family: arial
+}
+
+body {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.image {
+    margin-top: 0px;
+    width: 30%;
+    float: left;
+    display: inline-block
+}
+
+.text {
+    margin-top: 15px;
+    margin-left: 130px;
+    width: 55%;
+    height: 415px;
+    display: inline-block
+}
+
+.headlineOne {
+    text-align: center;
+    color: brown
+}
+
+.textAboutMe {
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 2
+}
+
+.headlineTwoAndThree {
+    margin-left: 6%;
+    color: brown
+}
+
+
+.blockTwoAndThree {
+    margin-top: 50px    
+}
+
+li {
+    font-size: 20px;
+    line-height: 2
+}
